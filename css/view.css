@@ -1,0 +1,156 @@
+
+
+body{
+        background-color:##FFFFFF;
+
+}
+
+
+#top_left{
+        padding:25px 0px 0px 0px ; 
+        border:0px ; 
+        margin:0px;
+        font-size:2.5em;
+        width:1000px;
+        height:80px;
+        position:absolute;
+        top:0px;
+        left:0px;
+        background-color:#EEEEEE;
+        text-align:center;	
+
+}
+
+#top_right{
+        padding:45px 0px 0px 0px ; 
+        border:0px ; 
+        margin:0px;
+        font-size:1.3em;
+        width:1200px;
+        height:60px;
+        position:absolute;
+        top:0px;
+        right:0px;
+        background-color:#EEEEEE;
+        text-align:center;	
+
+}
+
+
+
+
+
+#head_left{
+        padding:25px 0px 0px 0px ;
+        border:0px ; 
+        margin:0px;
+        width:920;
+        height:50px;
+        position:absolute;
+        top:105px;
+        left:0px;
+        background-color:#FFFFFF;
+        font-size:2.0em;
+        text-align:center;	
+
+}
+
+#head_right{
+        padding:25px 0px 0px 0px ;
+        border:0px ; 
+        margin:0px;
+        width:943;
+        height:50px;
+        position:absolute;
+        top:105px;
+        right:0px;
+        background-color:#FFFFFF;
+        font-color:#66FF00;
+        	
+
+}
+
+#head_right em{
+        padding:0px ;
+        border:0px ; 
+        margin:0px;
+        color:#ccff00;
+
+
+
+}
+
+
+
+
+
+
+#picture1{
+        padding:0px ;
+        border:0px ; 
+        margin:0px;
+        width:500;
+        height:2100px;
+        position:absolute;
+        top:180px;
+        left:420px;
+        text-align:center;
+
+
+}
+
+#picture1 p{
+        padding:0px ;
+        border:0px ; 
+        margin:0px;
+        
+
+
+}
+
+
+
+
+#picture2{
+        padding:0px ;
+        border:0px ; 
+        margin:0px;
+        width:500;
+        height:2100px;
+        position:absolute;
+        top:180px;
+        right:443px;
+        text-align:center;
+
+}
+
+
+#picture2 p{
+        padding:0px ;
+        border:0px ; 
+        margin:0px;
+        
+
+}
+
+
+footer {
+  background-color: #EEEEEE;
+  color:            #675c47;
+  text-align:       center;
+  line-height:200%;
+  padding:          15px;
+  margin: 0px 10px 10px 10px;
+  font-size:        90%;
+  width:1900px;
+  height:50px;
+  position:absolute;
+  left:0px;
+  top:2300px;
+}
+
+
+
+
+
+
